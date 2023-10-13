@@ -1,0 +1,149 @@
+*{background-color: rgb(65, 51, 171);
+    font-family: arial;
+    text-decoration: none;
+    list-style: none;
+     /* background-size: cover; */
+     /* background-position: left; */
+}
+.logo{
+    color:white;
+    font-weight: 600;
+    line-height: 130px;
+    margin-left: 300px;
+    font-size: 23px;
+}
+
+ul{
+    float: right;
+    margin-left: 200px;
+
+}
+li{
+    display: inline-block;
+    margin: 0 15px;
+    line-height: 100px;
+}
+a{
+    color:white;
+}
+#Overview{
+    opacity: 0.5;
+
+}
+#purchase{
+    border: none;
+    background-color:#E93A7D;
+    border-radius: 50px;
+    height: 30px;
+    color: white;
+    width:80px ;
+    margin-right: 200px;
+}
+.container{
+    width: 300px;
+    box-shadow: 0 0 3px rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 50px;
+    margin:5% 200px ;
+    text-align: center;
+    display: flex;
+    justify-content: right;
+    float: right;
+}
+.sign-btn{
+    background-color:rgb(65, 51, 171);
+    color: white;
+    width: 250px;
+    height: 40px;
+    border: none;
+    border-radius: 25px;
+}
+.login-via-twitter{
+    width:250px;
+    height: 40px;
+    border: none;
+    border-radius:25px ;
+    color: white;
+    background-color: rgb(66, 190, 243);
+}
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+    border: 1px solid #999;
+    outline: none;
+    background:white;
+}
+hr{
+    margin-top:20px;
+    width: 80%;
+}
+.or{
+    color: #999;
+    width:30px;
+    margin: -19px auto 10px;
+    background: #fff;
+}
+.account{
+    color: #999;
+    background: #fff;
+}
+.sign-in{
+    color: rgb(66, 190, 243);
+    background: #fff;
+}
+.terms{
+    color:#999;
+    background: white;
+}
+
+.green{
+    background: white;
+}
+.green{
+    float: right;
+    justify-content: right;
+}
+
+.tick{
+    background-color: #fff;
+}
+.blank{
+    background-color:rgb(65, 51, 171);
+    padding: 10px;
+    margin:7% auto 0px 300px;
+    width: 290px;
+}
+.flex{
+    display: flex;
+    width: 700px;
+}
+.flex{
+    float: right;
+    width: 100%;
+}
+h2{
+    background:#fff;
+}
+h1{
+    color: #fff;
+}
+.sample{
+    color: #fff;
+}
+.learn-btn{
+    border: none;
+    color: white;
+    background-color:#E93A7D ;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+}
+.sample{
+    font-size: 20px;
+}
+h1{
+    line-height: 18px;
+    font-size: 40px;
+}
